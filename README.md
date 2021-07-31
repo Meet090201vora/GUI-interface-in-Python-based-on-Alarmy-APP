@@ -1,3 +1,3 @@
-To watch the implementation refer the following video:
-
-https://drive.google.com/file/d/1zvF0SalzlkSF-Bs3XzJzN-u7mMDoIQIO/view?usp=sharing
+•Python - Tkinter, Pygame based program for ‘Heavy Sleepers’. The interface supports recurring alarms, one-time alarms. 
+•It supports a challenge mode that tries to wake you up enough to not fall back asleep. This interface supports snake game 
+backed by Pygame API.
